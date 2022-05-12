@@ -1,0 +1,10 @@
+public class Student{
+  String name="suraj";
+  String id="1234";
+public static void m1(){
+System.out.println("Id"+id)
+}
+public static void main (String[]args){
+      Employee.m1();
+}
+}
