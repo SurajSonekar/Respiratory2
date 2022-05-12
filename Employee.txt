@@ -1,6 +1,6 @@
 public class Employee{
   String name="suraj";
-  String salary="60000";
+  String salary="80000";
 public static void m1(){
 System.out.println("salary"+salary)
 }
